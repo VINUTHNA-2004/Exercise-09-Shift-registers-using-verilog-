@@ -111,21 +111,21 @@ endmodule
 ### RTL Registers:
 ![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/9a.png?raw=true)
 ### Timing Diagram for Shift Registers:
-![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/9t1.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/w1.PNG?raw=true)
 
 
 ### Parallel Input Serial Output (PISO):
 ### RTL Registers:
 ![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/9b.png?raw=true)
 ### Timing Diagram for Shift Registers:
-![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/9t2.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/piso.PNG?raw=true)
 
 
 ### Parallel Input Parallel Output (PIPO):
 ### RTL Registers:
 ![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/9c.png?raw=true)
 ### Timing Diagram for Shift Registers:
-![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/9t3.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Exercise-09-Shift-registers-using-verilog-/blob/main/W2.PNG?raw=true)
 
 
 
