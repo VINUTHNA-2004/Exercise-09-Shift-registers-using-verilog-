@@ -59,9 +59,9 @@ Program for  Implementation-of Shift-registers-using-verilog-
 Developed by: D.R.Vinuthna
 RegisterNumber:  212221230017
 ```
-```
-### Serial Input Parallel Output (SIPO):
 
+### Serial Input Parallel Output (SIPO):
+```
 module SIPO(SI,Clk,PO);
 input SI,Clk;
 output[0:7]PO;
@@ -72,9 +72,9 @@ temp = {temp[0:6],SI};
 end
 assign PO = temp;
 endmodule
-
+```
 ### Parallel Input Serial Output (PISO):
-
+```
 module PISO(Clk, Parallel_In,load, Serial_Out);
 input Clk,load;
 input [3:0]Parallel_In;
@@ -91,9 +91,9 @@ tmp<={tmp[2:0],1'b0};
 end
 end
 endmodule
-
+```
 ### Parallel Input Parallel Output (PIPO):
-
+```
 module PIPO(PI,Clk,PO);
 input Clk;
 input[3:0]PI;
